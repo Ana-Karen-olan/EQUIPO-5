@@ -1,0 +1,97 @@
+﻿Orientación al detalle - En línea
+Sesión 2: Demostrar orientación al detalle
+Estudio de caso
+
+
+Instrucciones: 
+	
+
+* Lee el caso de estudio en voz alta.
+* Discute el caso y responde las preguntas en 2-3 oraciones.
+
+
+Caso de estudio
+	
+
+Pedro ha estado trabajando como analista Junior en una empresa mediana durante 4 meses. Le encanta su trabajo y le complace utilizar las habilidades que adquirió durante el programa de entrenamiento para Desarrolladores Junior Full-Stack/Java de Generation. Se siente preparado para su trabajo, pero también se da cuenta de que siempre hay algo nuevo que aprender y tecnologías con las hay que mantenerse al día para mejorar sus habilidades en el trabajo.
+
+
+Pedro desarrolló código que incluye funcionalidades utilizadas por otras personas del equipo. El código y la documentación deben estar escritos en inglés, algo que se le dificulta a veces a Pedro, ya que su nivel es básico. 
+
+
+Un compañero le informa a Pedro que los nombres de algunas funcionalidades tienen errores de ortografía, lo que puede traer errores a futuro.
+
+
+Pedro debe revisar el nombramiento de sus variables y funciones antes de subir el código al repositorio de trabajo. Además debe asegurarse que la documentación esté escrita correctamente, ya que como el proyecto se desarrolla en equipo, sus errores pueden traer repercusiones en el trabajo de sus compañeras y compañeros.
+
+
+Pedro se da cuenta de que tendrá que mejorar sus habilidades de escritura y documentación de código escritos en inglés. Sabe que en los días ajetreados, a veces no se toma el tiempo de revisar su trabajo en busca de posibles errores o detalles faltantes antes de enviarlo. Decide prestar más atención a este paso final del proceso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pregunta
+	Respuesta
+	1. ¿Cuáles son dos ejemplos de Pedro usando la orientación al detalle?
+	* Tener cuidado con su manejo del inglés
+* Mantenerse al día en terminos de programación
+
+
+
+
+
+
+	2. De acuerdo con el pensamiento de Pedro, ¿cuáles son al menos dos beneficios de la atención al detalle?
+	* En poner atención en el inglés
+* Asegurarse de que la documentación este escrita correctamente
+
+
+
+
+
+
+
+
+
+
+	3. Con base en lo que sabes acerca de la atención de Pedro a los detalles, ¿cómo predices que se desempeñará la próxima vez que se le asigne documentar la información en inglés? ¿Qué va a hacer específicamente?
+
+
+	* creo que le prestará mucha atención al detalle y será cuidadoso con el idioma inglés
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+© 2022 Generation: You Employed, Inc.
